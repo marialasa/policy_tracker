@@ -3,8 +3,8 @@ library(ggplot2)
 library(gganimate)
 
 # Cargar datasets
-tracker <- read.csv("")
-attach(tracker)
+tracker <- read.csv("file")
+attach(file)
 
 # Crear plot. XX = números de días desde primer contagio
 # XXX = escala del eje horizontal que permita
