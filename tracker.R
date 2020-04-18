@@ -8,7 +8,7 @@ attach(file)
 
 # Crear plot. XX = números de días desde primer contagio
 # XXX = escala del eje horizontal que permita
-# ver los tags correctamente.
+# ver los tags de las curvas correctamente.
 p <- ggplot(
     Tracker,
     aes(Dia, No_Politicas, color = factor(Tipo))
