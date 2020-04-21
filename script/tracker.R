@@ -6,21 +6,20 @@ library(gganimate)
 tracker <- read.csv("file")
 attach(file)
 
-# Crear plot. XX = números de días desde primer contagio
-# XXX = escala del eje horizontal que permita
-# ver los tags de las curvas correctamente.
+# Crear plot. Ajustar valores en rows 17, 21 & 22.
+# Pueden personalizarse también los códigos de colores de row 25.
 p <- ggplot(
     Tracker,
     aes(Dia, No_Politicas, color = factor(Tipo))
 ) +
     theme_minimal() +
     geom_line(size = 1) +
-    geom_segment(aes(xend = XX, yend = No_Politicas, group = Tipo),
+    geom_segment(aes(xend = 48, yend = No_Politicas, group = Tipo),
                  linetype = 0, colour = 'white') +
     geom_text(aes(x = XX, label = Tipo, size = 5), hjust = 0) +
     guides(color = FALSE) +
-    scale_x_continuous(breaks = seq(0, XX, by = 5),
-                       limits = c(0, XXX))+
+    scale_x_continuous(breaks = seq(0, 48, by = 5),
+                       limits = c(0, 62))+
     xlab("")+
     ylab("")+
     scale_color_manual(values=c('#E17C05', '#cac9cb', '#edad08', '#cc503e', '#94346e', '#1d6996', '#73af48', '#000000', '#00ade6')) +
