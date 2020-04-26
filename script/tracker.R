@@ -6,7 +6,7 @@ library(gganimate)
 # Cargar datasets
 dataset <- read_csv("dataset.csv")
 
-# Crear plot. Ajustar valores en rows 17, 21 & 22.
+# Crear plot. Ajustar valores en rows 17, 19, 21 & 22.
 # Pueden personalizarse también los códigos de colores de row 25.
 p <- ggplot(
     dataset,
@@ -14,12 +14,12 @@ p <- ggplot(
 ) +
     theme_minimal() +
     geom_line(size = 1) +
-    geom_segment(aes(xend = 50, yend = No_Politicas, group = Tipo),
+    geom_segment(aes(xend = 53, yend = No_Politicas, group = Tipo),
                  linetype = 0, colour = 'white') +
-    geom_text(aes(x = XX, label = Tipo, size = 5), hjust = 0) +
+    geom_text(aes(x = 53, label = Tipo, size = 5), hjust = 0) +
     guides(color = FALSE) +
-    scale_x_continuous(breaks = seq(0, 50, by = 5),
-                       limits = c(0, 65))+
+    scale_x_continuous(breaks = seq(0, 53, by = 5),
+                       limits = c(0, 68))+
     xlab("")+
     ylab("")+
     scale_color_manual(values=c('#E17C05', '#cac9cb', '#edad08', '#cc503e', '#94346e', '#1d6996', '#73af48', '#000000', '#00ade6')) +
