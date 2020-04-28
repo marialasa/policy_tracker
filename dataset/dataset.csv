@@ -1,7 +1,7 @@
 ﻿Dia;No_Politicas;Tipo
 0;0;Laborales
 0;0;Economicas
-0;0;Movilidad
+0;0;Mov_Migraciones
 0;0;Espacio_Publico
 0;0;Comunicacion
 0;0;Administrativas
@@ -10,7 +10,7 @@
 0;0;Proteccion_Social
 1;0;Laborales
 1;0;Economicas
-1;0;Movilidad
+1;0;Mov_Migraciones
 1;0;Espacio_Publico
 1;0;Comunicacion
 1;0;Administrativas
@@ -19,7 +19,7 @@
 1;0;Proteccion_Social
 2;0;Laborales
 2;0;Economicas
-2;0;Movilidad
+2;0;Mov_Migraciones
 2;0;Espacio_Publico
 2;0;Comunicacion
 2;0;Administrativas
@@ -28,7 +28,7 @@
 2;0;Proteccion_Social
 3;2;Laborales
 3;0;Economicas
-3;0;Movilidad
+3;0;Mov_Migraciones
 3;0;Espacio_Publico
 3;0;Comunicacion
 3;0;Administrativas
@@ -37,7 +37,7 @@
 3;0;Proteccion_Social
 4;2;Laborales
 4;0;Economicas
-4;0;Movilidad
+4;0;Mov_Migraciones
 4;0;Espacio_Publico
 4;0;Comunicacion
 4;0;Administrativas
@@ -46,7 +46,7 @@
 4;0;Proteccion_Social
 5;2;Laborales
 5;0;Economicas
-5;0;Movilidad
+5;0;Mov_Migraciones
 5;0;Espacio_Publico
 5;0;Comunicacion
 5;0;Administrativas
@@ -55,7 +55,7 @@
 5;0;Proteccion_Social
 6;2;Laborales
 6;0;Economicas
-6;0;Movilidad
+6;0;Mov_Migraciones
 6;0;Espacio_Publico
 6;0;Comunicacion
 6;0;Administrativas
@@ -64,7 +64,7 @@
 6;0;Proteccion_Social
 7;2;Laborales
 7;1;Economicas
-7;0;Movilidad
+7;0;Mov_Migraciones
 7;0;Espacio_Publico
 7;0;Comunicacion
 7;0;Administrativas
@@ -73,7 +73,7 @@
 7;0;Proteccion_Social
 8;2;Laborales
 8;1;Economicas
-8;1;Movilidad
+8;1;Mov_Migraciones
 8;0;Espacio_Publico
 8;0;Comunicacion
 8;0;Administrativas
@@ -82,7 +82,7 @@
 8;0;Proteccion_Social
 9;2;Laborales
 9;1;Economicas
-9;1;Movilidad
+9;1;Mov_Migraciones
 9;2;Espacio_Publico
 9;0;Comunicacion
 9;0;Administrativas
@@ -91,7 +91,7 @@
 9;0;Proteccion_Social
 10;3;Laborales
 10;1;Economicas
-10;5;Movilidad
+10;5;Mov_Migraciones
 10;2;Espacio_Publico
 10;2;Comunicacion
 10;0;Administrativas
@@ -100,7 +100,7 @@
 10;0;Proteccion_Social
 11;4;Laborales
 11;1;Economicas
-11;5;Movilidad
+11;5;Mov_Migraciones
 11;2;Espacio_Publico
 11;2;Comunicacion
 11;1;Administrativas
@@ -109,7 +109,7 @@
 11;0;Proteccion_Social
 12;6;Laborales
 12;1;Economicas
-12;7;Movilidad
+12;7;Mov_Migraciones
 12;3;Espacio_Publico
 12;2;Comunicacion
 12;1;Administrativas
@@ -118,7 +118,7 @@
 12;0;Proteccion_Social
 13;7;Laborales
 13;1;Economicas
-13;8;Movilidad
+13;8;Mov_Migraciones
 13;3;Espacio_Publico
 13;2;Comunicacion
 13;1;Administrativas
@@ -127,7 +127,7 @@
 13;0;Proteccion_Social
 14;7;Laborales
 14;2;Economicas
-14;10;Movilidad
+14;10;Mov_Migraciones
 14;4;Espacio_Publico
 14;4;Comunicacion
 14;3;Administrativas
@@ -136,7 +136,7 @@
 14;1;Proteccion_Social
 15;7;Laborales
 15;2;Economicas
-15;10;Movilidad
+15;10;Mov_Migraciones
 15;4;Espacio_Publico
 15;4;Comunicacion
 15;3;Administrativas
@@ -145,7 +145,7 @@
 15;1;Proteccion_Social
 16;7;Laborales
 16;3;Economicas
-16;11;Movilidad
+16;11;Mov_Migraciones
 16;4;Espacio_Publico
 16;5;Comunicacion
 16;3;Administrativas
@@ -154,7 +154,7 @@
 16;1;Proteccion_Social
 17;9;Laborales
 17;3;Economicas
-17;12;Movilidad
+17;12;Mov_Migraciones
 17;4;Espacio_Publico
 17;5;Comunicacion
 17;3;Administrativas
@@ -163,7 +163,7 @@
 17;2;Proteccion_Social
 18;9;Laborales
 18;3;Economicas
-18;13;Movilidad
+18;13;Mov_Migraciones
 18;4;Espacio_Publico
 18;5;Comunicacion
 18;3;Administrativas
@@ -172,7 +172,7 @@
 18;2;Proteccion_Social
 19;9;Laborales
 19;3;Economicas
-19;13;Movilidad
+19;13;Mov_Migraciones
 19;4;Espacio_Publico
 19;5;Comunicacion
 19;3;Administrativas
@@ -181,7 +181,7 @@
 19;2;Proteccion_Social
 20;9;Laborales
 20;3;Economicas
-20;13;Movilidad
+20;13;Mov_Migraciones
 20;4;Espacio_Publico
 20;5;Comunicacion
 20;3;Administrativas
@@ -190,7 +190,7 @@
 20;3;Proteccion_Social
 21;9;Laborales
 21;4;Economicas
-21;13;Movilidad
+21;13;Mov_Migraciones
 21;4;Espacio_Publico
 21;5;Comunicacion
 21;3;Administrativas
@@ -199,7 +199,7 @@
 21;4;Proteccion_Social
 22;9;Laborales
 22;4;Economicas
-22;13;Movilidad
+22;13;Mov_Migraciones
 22;4;Espacio_Publico
 22;5;Comunicacion
 22;3;Administrativas
@@ -208,7 +208,7 @@
 22;4;Proteccion_Social
 23;10;Laborales
 23;7;Economicas
-23;14;Movilidad
+23;14;Mov_Migraciones
 23;4;Espacio_Publico
 23;5;Comunicacion
 23;3;Administrativas
@@ -217,7 +217,7 @@
 23;4;Proteccion_Social
 24;10;Laborales
 24;8;Economicas
-24;14;Movilidad
+24;14;Mov_Migraciones
 24;4;Espacio_Publico
 24;5;Comunicacion
 24;3;Administrativas
@@ -226,7 +226,7 @@
 24;4;Proteccion_Social
 25;11;Laborales
 25;8;Economicas
-25;14;Movilidad
+25;14;Mov_Migraciones
 25;4;Espacio_Publico
 25;5;Comunicacion
 25;3;Administrativas
@@ -235,7 +235,7 @@
 25;5;Proteccion_Social
 26;11;Laborales
 26;8;Economicas
-26;14;Movilidad
+26;14;Mov_Migraciones
 26;4;Espacio_Publico
 26;5;Comunicacion
 26;3;Administrativas
@@ -244,7 +244,7 @@
 26;7;Proteccion_Social
 27;11;Laborales
 27;8;Economicas
-27;14;Movilidad
+27;14;Mov_Migraciones
 27;4;Espacio_Publico
 27;5;Comunicacion
 27;3;Administrativas
@@ -253,7 +253,7 @@
 27;7;Proteccion_Social
 28;12;Laborales
 28;10;Economicas
-28;15;Movilidad
+28;15;Mov_Migraciones
 28;4;Espacio_Publico
 28;5;Comunicacion
 28;3;Administrativas
@@ -262,7 +262,7 @@
 28;7;Proteccion_Social
 29;13;Laborales
 29;12;Economicas
-29;16;Movilidad
+29;16;Mov_Migraciones
 29;4;Espacio_Publico
 29;5;Comunicacion
 29;3;Administrativas
@@ -271,7 +271,7 @@
 29;7;Proteccion_Social
 30;13;Laborales
 30;12;Economicas
-30;16;Movilidad
+30;16;Mov_Migraciones
 30;4;Espacio_Publico
 30;5;Comunicacion
 30;3;Administrativas
@@ -280,7 +280,7 @@
 30;7;Proteccion_Social
 31;13;Laborales
 31;12;Economicas
-31;16;Movilidad
+31;16;Mov_Migraciones
 31;4;Espacio_Publico
 31;5;Comunicacion
 31;3;Administrativas
@@ -289,7 +289,7 @@
 31;7;Proteccion_Social
 32;13;Laborales
 32;12;Economicas
-32;16;Movilidad
+32;16;Mov_Migraciones
 32;4;Espacio_Publico
 32;5;Comunicacion
 32;3;Administrativas
@@ -298,7 +298,7 @@
 32;7;Proteccion_Social
 33;13;Laborales
 33;12;Economicas
-33;16;Movilidad
+33;16;Mov_Migraciones
 33;4;Espacio_Publico
 33;5;Comunicacion
 33;3;Administrativas
@@ -307,7 +307,7 @@
 33;7;Proteccion_Social
 34;13;Laborales
 34;13;Economicas
-34;16;Movilidad
+34;16;Mov_Migraciones
 34;4;Espacio_Publico
 34;5;Comunicacion
 34;4;Administrativas
@@ -316,7 +316,7 @@
 34;7;Proteccion_Social
 35;13;Laborales
 35;13;Economicas
-35;16;Movilidad
+35;16;Mov_Migraciones
 35;4;Espacio_Publico
 35;5;Comunicacion
 35;5;Administrativas
@@ -325,7 +325,7 @@
 35;7;Proteccion_Social
 36;13;Laborales
 36;14;Economicas
-36;16;Movilidad
+36;16;Mov_Migraciones
 36;4;Espacio_Publico
 36;5;Comunicacion
 36;6;Administrativas
@@ -334,7 +334,7 @@
 36;8;Proteccion_Social
 37;13;Laborales
 37;14;Economicas
-37;16;Movilidad
+37;16;Mov_Migraciones
 37;4;Espacio_Publico
 37;5;Comunicacion
 37;6;Administrativas
@@ -343,7 +343,7 @@
 37;8;Proteccion_Social
 38;13;Laborales
 38;14;Economicas
-38;16;Movilidad
+38;16;Mov_Migraciones
 38;4;Espacio_Publico
 38;5;Comunicacion
 38;6;Administrativas
@@ -352,7 +352,7 @@
 38;8;Proteccion_Social
 39;13;Laborales
 39;14;Economicas
-39;17;Movilidad
+39;17;Mov_Migraciones
 39;4;Espacio_Publico
 39;5;Comunicacion
 39;6;Administrativas
@@ -361,7 +361,7 @@
 39;8;Proteccion_Social
 40;13;Laborales
 40;14;Economicas
-40;17;Movilidad
+40;17;Mov_Migraciones
 40;4;Espacio_Publico
 40;5;Comunicacion
 40;6;Administrativas
@@ -370,7 +370,7 @@
 40;8;Proteccion_Social
 41;14;Laborales
 41;14;Economicas
-41;17;Movilidad
+41;17;Mov_Migraciones
 41;4;Espacio_Publico
 41;5;Comunicacion
 41;6;Administrativas
@@ -379,7 +379,7 @@
 41;8;Proteccion_Social
 42;14;Laborales
 42;14;Economicas
-42;17;Movilidad
+42;17;Mov_Migraciones
 42;4;Espacio_Publico
 42;5;Comunicacion
 42;6;Administrativas
@@ -388,7 +388,7 @@
 42;8;Proteccion_Social
 43;14;Laborales
 43;14;Economicas
-43;17;Movilidad
+43;17;Mov_Migraciones
 43;4;Espacio_Publico
 43;5;Comunicacion
 43;6;Administrativas
@@ -397,7 +397,7 @@
 43;8;Proteccion_Social
 44;14;Laborales
 44;14;Economicas
-44;17;Movilidad
+44;17;Mov_Migraciones
 44;4;Espacio_Publico
 44;5;Comunicacion
 44;6;Administrativas
@@ -406,7 +406,7 @@
 44;8;Proteccion_Social
 45;14;Laborales
 45;14;Economicas
-45;17;Movilidad
+45;17;Mov_Migraciones
 45;4;Espacio_Publico
 45;5;Comunicacion
 45;6;Administrativas
@@ -415,7 +415,7 @@
 45;9;Proteccion_Social
 46;14;Laborales
 46;14;Economicas
-46;17;Movilidad
+46;17;Mov_Migraciones
 46;4;Espacio_Publico
 46;5;Comunicacion
 46;6;Administrativas
@@ -424,7 +424,7 @@
 46;9;Proteccion_Social
 47;14;Laborales
 47;15;Economicas
-47;17;Movilidad
+47;17;Mov_Migraciones
 47;4;Espacio_Publico
 47;5;Comunicacion
 47;6;Administrativas
@@ -433,7 +433,7 @@
 47;9;Proteccion_Social
 48;14;Laborales
 48;15;Economicas
-48;17;Movilidad
+48;17;Mov_Migraciones
 48;4;Espacio_Publico
 48;5;Comunicacion
 48;6;Administrativas
@@ -442,7 +442,7 @@
 48;9;Proteccion_Social
 49;14;Laborales
 49;15;Economicas
-49;17;Movilidad
+49;17;Mov_Migraciones
 49;4;Espacio_Publico
 49;5;Comunicacion
 49;6;Administrativas
@@ -451,7 +451,7 @@
 49;9;Proteccion_Social
 50;14;Laborales
 50;15;Economicas
-50;17;Movilidad
+50;17;Mov_Migraciones
 50;4;Espacio_Publico
 50;5;Comunicacion
 50;7;Administrativas
@@ -460,7 +460,7 @@
 50;9;Proteccion_Social
 51;14;Laborales
 51;15;Economicas
-51;17;Movilidad
+51;17;Mov_Migraciones
 51;4;Espacio_Publico
 51;5;Comunicacion
 51;7;Administrativas
@@ -469,7 +469,7 @@
 51;9;Proteccion_Social
 52;14;Laborales
 52;15;Economicas
-52;17;Movilidad
+52;17;Mov_Migraciones
 52;4;Espacio_Publico
 52;5;Comunicacion
 52;7;Administrativas
@@ -478,7 +478,7 @@
 52;9;Proteccion_Social
 53;14;Laborales
 53;15;Economicas
-53;17;Movilidad
+53;17;Mov_Migraciones
 53;4;Espacio_Publico
 53;5;Comunicacion
 53;7;Administrativas
@@ -487,10 +487,19 @@
 53;10;Proteccion_Social
 54;14;Laborales
 54;15;Economicas
-54;18;Movilidad
+54;18;Mov_Migraciones
 54;4;Espacio_Publico
 54;5;Comunicacion
 54;7;Administrativas
 54;2;Educativas
 54;9;Sanitarias
 54;10;Proteccion_Social
+55;15;Laborales
+55;15;Economicas
+55;19;Mov_Migraciones
+55;4;Espacio_Publico
+55;5;Comunicacion
+55;7;Administrativas
+55;2;Educativas
+55;9;Sanitarias
+55;10;Proteccion_Social
