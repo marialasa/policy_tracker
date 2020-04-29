@@ -213,7 +213,7 @@
 23;5;Comunicacion
 23;3;Administrativas
 23;2;Educativas
-23;5;Sanitarias
+23;6;Sanitarias
 23;4;Proteccion_Social
 24;10;Laborales
 24;8;Economicas
@@ -222,7 +222,7 @@
 24;5;Comunicacion
 24;3;Administrativas
 24;2;Educativas
-24;5;Sanitarias
+24;6;Sanitarias
 24;4;Proteccion_Social
 25;11;Laborales
 25;8;Economicas
@@ -231,7 +231,7 @@
 25;5;Comunicacion
 25;3;Administrativas
 25;2;Educativas
-25;6;Sanitarias
+25;7;Sanitarias
 25;5;Proteccion_Social
 26;11;Laborales
 26;8;Economicas
@@ -240,7 +240,7 @@
 26;5;Comunicacion
 26;3;Administrativas
 26;2;Educativas
-26;6;Sanitarias
+26;7;Sanitarias
 26;7;Proteccion_Social
 27;11;Laborales
 27;8;Economicas
@@ -249,7 +249,7 @@
 27;5;Comunicacion
 27;3;Administrativas
 27;2;Educativas
-27;7;Sanitarias
+27;8;Sanitarias
 27;7;Proteccion_Social
 28;12;Laborales
 28;10;Economicas
@@ -258,7 +258,7 @@
 28;5;Comunicacion
 28;3;Administrativas
 28;2;Educativas
-28;7;Sanitarias
+28;8;Sanitarias
 28;7;Proteccion_Social
 29;13;Laborales
 29;12;Economicas
@@ -267,7 +267,7 @@
 29;5;Comunicacion
 29;3;Administrativas
 29;2;Educativas
-29;7;Sanitarias
+29;8;Sanitarias
 29;7;Proteccion_Social
 30;13;Laborales
 30;12;Economicas
@@ -276,7 +276,7 @@
 30;5;Comunicacion
 30;3;Administrativas
 30;2;Educativas
-30;7;Sanitarias
+30;8;Sanitarias
 30;7;Proteccion_Social
 31;13;Laborales
 31;12;Economicas
@@ -285,7 +285,7 @@
 31;5;Comunicacion
 31;3;Administrativas
 31;2;Educativas
-31;7;Sanitarias
+31;8;Sanitarias
 31;7;Proteccion_Social
 32;13;Laborales
 32;12;Economicas
@@ -294,7 +294,7 @@
 32;5;Comunicacion
 32;3;Administrativas
 32;2;Educativas
-32;7;Sanitarias
+32;8;Sanitarias
 32;7;Proteccion_Social
 33;13;Laborales
 33;12;Economicas
@@ -303,7 +303,7 @@
 33;5;Comunicacion
 33;3;Administrativas
 33;2;Educativas
-33;7;Sanitarias
+33;8;Sanitarias
 33;7;Proteccion_Social
 34;13;Laborales
 34;13;Economicas
@@ -312,7 +312,7 @@
 34;5;Comunicacion
 34;4;Administrativas
 34;2;Educativas
-34;7;Sanitarias
+34;8;Sanitarias
 34;7;Proteccion_Social
 35;13;Laborales
 35;13;Economicas
@@ -321,7 +321,7 @@
 35;5;Comunicacion
 35;5;Administrativas
 35;2;Educativas
-35;7;Sanitarias
+35;8;Sanitarias
 35;7;Proteccion_Social
 36;13;Laborales
 36;14;Economicas
@@ -330,7 +330,7 @@
 36;5;Comunicacion
 36;6;Administrativas
 36;2;Educativas
-36;7;Sanitarias
+36;8;Sanitarias
 36;8;Proteccion_Social
 37;13;Laborales
 37;14;Economicas
@@ -339,7 +339,7 @@
 37;5;Comunicacion
 37;6;Administrativas
 37;2;Educativas
-37;7;Sanitarias
+37;8;Sanitarias
 37;8;Proteccion_Social
 38;13;Laborales
 38;14;Economicas
@@ -348,7 +348,7 @@
 38;5;Comunicacion
 38;6;Administrativas
 38;2;Educativas
-38;7;Sanitarias
+38;8;Sanitarias
 38;8;Proteccion_Social
 39;13;Laborales
 39;14;Economicas
@@ -357,7 +357,7 @@
 39;5;Comunicacion
 39;6;Administrativas
 39;2;Educativas
-39;7;Sanitarias
+39;8;Sanitarias
 39;8;Proteccion_Social
 40;13;Laborales
 40;14;Economicas
@@ -366,7 +366,7 @@
 40;5;Comunicacion
 40;6;Administrativas
 40;2;Educativas
-40;7;Sanitarias
+40;8;Sanitarias
 40;8;Proteccion_Social
 41;14;Laborales
 41;14;Economicas
@@ -375,7 +375,7 @@
 41;5;Comunicacion
 41;6;Administrativas
 41;2;Educativas
-41;7;Sanitarias
+41;8;Sanitarias
 41;8;Proteccion_Social
 42;14;Laborales
 42;14;Economicas
@@ -384,7 +384,7 @@
 42;5;Comunicacion
 42;6;Administrativas
 42;2;Educativas
-42;7;Sanitarias
+42;8;Sanitarias
 42;8;Proteccion_Social
 43;14;Laborales
 43;14;Economicas
@@ -393,7 +393,7 @@
 43;5;Comunicacion
 43;6;Administrativas
 43;2;Educativas
-43;7;Sanitarias
+43;8;Sanitarias
 43;8;Proteccion_Social
 44;14;Laborales
 44;14;Economicas
@@ -402,7 +402,7 @@
 44;5;Comunicacion
 44;6;Administrativas
 44;2;Educativas
-44;8;Sanitarias
+44;9;Sanitarias
 44;8;Proteccion_Social
 45;14;Laborales
 45;14;Economicas
@@ -411,7 +411,7 @@
 45;5;Comunicacion
 45;6;Administrativas
 45;2;Educativas
-45;8;Sanitarias
+45;9;Sanitarias
 45;9;Proteccion_Social
 46;14;Laborales
 46;14;Economicas
@@ -420,7 +420,7 @@
 46;5;Comunicacion
 46;6;Administrativas
 46;2;Educativas
-46;8;Sanitarias
+46;9;Sanitarias
 46;9;Proteccion_Social
 47;14;Laborales
 47;15;Economicas
@@ -429,7 +429,7 @@
 47;5;Comunicacion
 47;6;Administrativas
 47;2;Educativas
-47;8;Sanitarias
+47;9;Sanitarias
 47;9;Proteccion_Social
 48;14;Laborales
 48;15;Economicas
@@ -438,7 +438,7 @@
 48;5;Comunicacion
 48;6;Administrativas
 48;2;Educativas
-48;8;Sanitarias
+48;9;Sanitarias
 48;9;Proteccion_Social
 49;14;Laborales
 49;15;Economicas
@@ -447,7 +447,7 @@
 49;5;Comunicacion
 49;6;Administrativas
 49;2;Educativas
-49;8;Sanitarias
+49;9;Sanitarias
 49;9;Proteccion_Social
 50;14;Laborales
 50;15;Economicas
@@ -456,7 +456,7 @@
 50;5;Comunicacion
 50;7;Administrativas
 50;2;Educativas
-50;8;Sanitarias
+50;9;Sanitarias
 50;9;Proteccion_Social
 51;14;Laborales
 51;15;Economicas
@@ -465,7 +465,7 @@
 51;5;Comunicacion
 51;7;Administrativas
 51;2;Educativas
-51;8;Sanitarias
+51;9;Sanitarias
 51;9;Proteccion_Social
 52;14;Laborales
 52;15;Economicas
@@ -474,7 +474,7 @@
 52;5;Comunicacion
 52;7;Administrativas
 52;2;Educativas
-52;9;Sanitarias
+52;10;Sanitarias
 52;9;Proteccion_Social
 53;14;Laborales
 53;15;Economicas
@@ -483,7 +483,7 @@
 53;5;Comunicacion
 53;7;Administrativas
 53;2;Educativas
-53;9;Sanitarias
+53;10;Sanitarias
 53;10;Proteccion_Social
 54;14;Laborales
 54;15;Economicas
@@ -492,7 +492,7 @@
 54;5;Comunicacion
 54;7;Administrativas
 54;2;Educativas
-54;9;Sanitarias
+54;10;Sanitarias
 54;10;Proteccion_Social
 55;15;Laborales
 55;15;Economicas
@@ -501,5 +501,5 @@
 55;5;Comunicacion
 55;7;Administrativas
 55;2;Educativas
-55;9;Sanitarias
+55;11;Sanitarias
 55;10;Proteccion_Social
