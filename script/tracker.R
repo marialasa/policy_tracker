@@ -38,7 +38,9 @@ p <- ggplot(dataset,
     "Policy Tracker: respuestas a Covid-19 en Argentina",
     "Plot de http://medium.com/@Condolasa"
   ) +
-  labs(x = "Días desde primer infectado", y = "Número de políticas implementadas", caption = "Data: https://www.argentina.gob.ar/coronavirus/medidas-gobierno") +
+  labs(x = "Días desde primer infectado",
+       y = "Número de políticas implementadas",
+       caption = "Data: https://www.argentina.gob.ar/coronavirus/medidas-gobierno") +
   theme(legend.position = "none") +
   geom_point(size = 2.5) +
   transition_reveal(Dia)
